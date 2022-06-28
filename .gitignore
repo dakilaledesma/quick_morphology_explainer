@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Large/numerous model and dataset files
+models/
+data/
+
+# Outputs
+outs/
