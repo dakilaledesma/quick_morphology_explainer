@@ -134,3 +134,6 @@ data/
 
 # Outputs
 outs/
+
+# macOS
+.DS_Store
